@@ -1,0 +1,1 @@
+{"name":"Local: string","url":"c:\\Users\\Manab Paul\\Pictures\\Programs\\special program\\string.c","tests":[{"id":1619923700814,"input":"my name is Manab Paul","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Manab Paul\\Pictures\\Programs\\special program\\string.c","group":"local","local":true}

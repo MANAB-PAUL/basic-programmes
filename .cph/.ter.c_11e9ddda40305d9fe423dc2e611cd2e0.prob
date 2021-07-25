@@ -1,0 +1,1 @@
+{"name":"Local: ter","url":"c:\\Users\\Manab Paul\\Pictures\\Programs\\special program\\ter.c","tests":[{"id":1620367660937,"input":"anything you like can be given as input","output":"2045 900\n2080 1600\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Manab Paul\\Pictures\\Programs\\special program\\ter.c","group":"local","local":true}

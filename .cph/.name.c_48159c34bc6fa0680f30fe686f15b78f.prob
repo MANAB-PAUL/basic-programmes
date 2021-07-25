@@ -1,0 +1,1 @@
+{"name":"Local: name","url":"c:\\Users\\Manab Paul\\Pictures\\Programs\\special program\\name.c","tests":[{"id":1621947430213,"input":"My name is Manab Paul","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Manab Paul\\Pictures\\Programs\\special program\\name.c","group":"local","local":true}

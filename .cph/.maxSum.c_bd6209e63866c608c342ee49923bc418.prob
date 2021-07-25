@@ -1,0 +1,1 @@
+{"name":"Local: maxSum","url":"c:\\Users\\Manab Paul\\Pictures\\Programs\\special program\\maxSum.c","tests":[{"id":1620063858520,"input":"5\n1 -4 3 2 1","output":""},{"id":1620127092779,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Manab Paul\\Pictures\\Programs\\special program\\maxSum.c","group":"local","local":true}
